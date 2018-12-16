@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         
         System.out.println( "Hello W3orld!" );System.out.println( "Hello World!2" );System.out.println( "Hello W2orld!" );
+        System.out.println( "Hello W4orld!" );System.out.println( "Hello World!2" );System.out.println( "Hello W2orld!" );
 
         System.out.print("kaixinjiuhao");
 
